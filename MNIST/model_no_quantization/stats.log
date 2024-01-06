@@ -1,0 +1,20 @@
+[Global stats]
+Total number of neurons: 6528
+Total number of nodes: 8104
+Total number of synapses: 61470
+Total number of virtual synapses: 416520
+Total number of connections: 422824
+
+[Memory]
+Input data (int-8 bits): 1.024 kB   (1 KiB)
+Input data (float-16 bits): 2.048 kB   (2 KiB)
+Input data (float-32 bits): 4.096 kB   (4 KiB)
+Free parameters (int-8 bits): 61.47 kB   (60.0293 KiB)
+Free parameters (float-16 bits): 122.94 kB   (120.059 KiB)
+Free parameters (float-32 bits): 245.88 kB   (240.117 KiB)
+Layers data (int-8 bits): 8.104 kB   (7.91406 KiB)
+Layers data (float-16 bits): 16.208 kB   (15.8281 KiB)
+Layers data (float-32 bits): 32.416 kB   (31.6562 KiB)
+
+[Computing]
+MACS / input data: 0.422824M
