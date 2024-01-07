@@ -1,4 +1,4 @@
-Compare quantified neural networks for MNIST (images) data
+## Compare quantified neural networks for MNIST (images) data
 
 
 In this specific directory, you can locate the following files:
